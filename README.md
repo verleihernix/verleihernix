@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [easybot.js](https://github.com/verleihernix/easybot.js/tree/1.1.3)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
