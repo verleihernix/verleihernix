@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verleihernix&label=Profile%20views&color=0e75b6&style=flat" alt="verleihernix" /> </p>
 
-- 🔭 I’m currently working on [easybot.js](https://github.com/verleihernix/easybot.js)
+- 🔭 I’m currently working on [ezcord.ts](https://github.com/verleihernix/ezcord.ts)
 
 - 🌱 I’m currently learning **Luau**
 
