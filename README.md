@@ -1,5 +1,4 @@
 ## Hey, I'm verleihernix 👋
-[![Discord](https://img.shields.io/discord/:serverId?style=for-the-badge&logo=discord&label=Discord&color=blue)](https://discord.gg/JxxjdXPxsq)
 A passionate Backend Developer from Germany
 - I like working with **TypeScript & JavaScript**, **Python**, **Discord Bots** and **API's** ✨
 
