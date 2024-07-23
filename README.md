@@ -1,5 +1,16 @@
-## Hey, I'm verleihernix 👋
+## Hey, I'm Mika Erik👋
 A passionate Backend Developer from Germany
-- I like working with **TypeScript & JavaScript**, **Python**, **Discord Bots** and **API's** ✨
+- I love working with **TypeScript**, **Discord** and **API's**
+
+## 💻 My Tools
+[![](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/ "TypeScript")
+[![](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "JavaScript")
+[![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
+[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/ "NodeJS")
+[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/ "Discord.JS")
+[![](https://skillicons.dev/icons?i=deno)](https://deno.com/ "Deno")
+[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
+[![](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com/ "MongoDB")
 
 [![Discord](https://lanyard.cnrad.dev/api/1068903407588495472)](https://discord.com/users/1068903407588495472)
