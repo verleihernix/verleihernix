@@ -1,4 +1,4 @@
-## Hey, I'm Mika Erik👋
+## Hey, I'm Mika Erik aka verleihernix👋
 A passionate Backend Developer from Germany
 - I love working with **TypeScript**, **Discord** and **API's**
 
