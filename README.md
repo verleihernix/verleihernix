@@ -1,6 +1,6 @@
 ## Hey, I'm Mika Erik aka verleihernix👋
 A passionate Backend Developer from Germany
-- I love working with **TypeScript**, **Python**, **Discord** and **API's**
+- I love working with **TypeScript**, **Luau**, **Python**, **Discord** and **API's**
 
 ## 💻 My Tools
 [![](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/ "TypeScript")
