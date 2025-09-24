@@ -1,5 +1,4 @@
 ## Hey, I'm Mika Erik aka verleihernix👋
-A passionate Backend Developer from Germany
 - I love working with **TypeScript**, **Luau**, **Python**, **Discord** and **API's**
 - I am currently learning C++
 
