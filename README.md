@@ -1,1 +1,1 @@
-currently learning rust
+currently learning rust 🦀
