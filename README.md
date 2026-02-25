@@ -1,1 +1,1 @@
-currently learning rust 🦀
+low level enthusiast 
